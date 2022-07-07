@@ -1,0 +1,173 @@
+
+
+.wide{
+         text-align: center;
+         color: rgb(30, 210, 54);
+         font-family: 'Poppins', sans-serif;
+         margin: 0;
+         padding: 5% 0 2% 0;} 
+
+
+.modifi{
+        color: aqua;}
+
+h1   {font-family: 'Poppins', sans-serif;}
+h2  {font-family: 'Monsieur La Doulaise', cursive;}
+h3   {color: rgb(211, 224, 211);}
+h4   {color: #eb8911;}
+.back-img{
+        background-image: url(images/donation13.jpg);
+         background-repeat:no-repeat;
+         background-size: 100%;
+        height: 520px;}
+
+
+.button {
+        text-decoration: none;
+        background-image:linear-gradient(tomato, red);
+        padding: 5px;
+        color: yellowgreen;
+        font-weight: 700;
+        border-radius: 3px;}
+        
+        
+#ability{
+        text-align: center;
+         color: black;
+         font-family: 'Poppins', sans-serif;
+         margin: 0;
+         padding: 5% 0 1% 0;}
+
+#Sad-About{color:gold}
+
+
+h1{font-size: 55px;
+  font-family: Arial, Helvetica, sans-serif;}
+
+
+.donate{
+        display: flex;
+        padding-left: 25%;
+        padding-right: 60%;}
+        
+
+    
+ #exe {
+    text-decoration: none;
+    background-color: rgb(241, 192, 142);
+    padding: 19%;
+    color: rgb(230, 14, 14);
+    font-weight: 700;
+    border-radius: 3px;
+    margin: 8%;
+   
+   border-style: solid;
+
+}
+    
+ 
+.position{
+          text-decoration: none;
+          background-color:rgb(243, 241, 236);
+          padding: 19%;
+          color: black;
+          font-weight: 700;
+          border-radius: 3px;
+          margin: 8%;}
+
+
+       .position a{text-decoration: none;
+        background-color:rgb(243, 241, 236);
+        padding: 19%;
+        color: black;
+        font-weight: 700;
+        border-radius: 3px;
+        margin: 8%;}   
+        
+#other-taka{
+            text-align: center;
+            padding: 5px;
+            color:rgb(161, 155, 143);
+            font-weight: 300;}
+
+ input[ type="text"]    
+        {padding:  5px 15px;
+         border-bottom-color: black;
+         color: rgb(231, 190, 112);
+        border-radius: 4px;}
+             
+         
+ #tree-pic{
+            width: 400%;
+            background-image: url(icons/food.png);
+            background-repeat: no-repeat;
+            background-size: 15%;
+            background-color: rgb(220, 241, 241);
+            padding:55px 10px 15px 10px;
+            margin: 2%;}
+.plan-color{ color: darkmagenta;} 
+
+.tpic{
+         display: flex;
+         padding:0% 10% 10% 10%;}
+
+#second{
+        width: 400%;
+        background-image: url(icons/shelter.png);
+        background-repeat: no-repeat;
+        background-size: 15%;
+         background-color:rgb(221, 202, 205);
+        padding:55px 10px 15px 10px;
+        margin: 2%;
+        border-radius: 5px;}
+
+ #third{ width: 400%;
+              background-image: url(icons/Frame-1.png);
+              background-repeat: no-repeat;
+              background-size: 15%;
+              background-color:rgb(221, 202, 205);
+              padding:55px 10px 15px 10px;
+              margin: 2%;
+              border-radius: 5px;}
+
+.two-clumn{
+        display: flex;
+       }
+       
+       
+.details{ 
+         width: 50%;
+        padding: 3%; }
+
+.details img {
+             width: 100%;}
+
+.box{
+    text-align: center;}
+
+.form{
+       background-color: rgb(141, 207, 207);
+       padding: 2%;
+       margin: 0  25% 0 25%;
+       box-sizing: border-box;}
+
+.type{background: #fff;
+    padding: 0 25px;
+    border-radius: 5px;}
+
+.colour
+{background: #ffc107;
+background-color: #ffc107;}
+
+
+footer{
+    margin-top: 350px;
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(1, 20, 20);}
+
+#last{color: red;
+    font-family: 'Monsieur La Doulaise', cursive;}
+
+
+#gonna-colour{color: #ffebcd;}  
